@@ -12,3 +12,4 @@ This repo contains all the projects that I have done in the alx-Holberton curric
 | [0x06-python-classes](0x06-python-classes) | Python classes |
 | [0x07-python-test_driven_development](0x07-python-test_driven_development) | Doctests and Unittests for python scripts |
 | [0x08-python-more_classes](0x08-python-more_classes) | Python classes |
+| [0x09-python-everything_is_object](0x09-python-everything_is_object) | Python - Everything is object, how python works with objects |
